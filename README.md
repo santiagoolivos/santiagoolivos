@@ -25,22 +25,6 @@ Engineer who loves **building products and solving hard problems**. I thrive at 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santiagoolivos&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagoolivos&layout=compact&langs_count=8&theme=tokyonight&count_private=true&hide_border=true"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=santiagoolivos&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
----
 
 ## 💼 Experience
 
