@@ -13,11 +13,12 @@
 
 ## 👨‍💻 About Me
 
-Founding Full Stack Engineer with experience designing, building, and scaling SaaS products in early-stage startup environments. Strong background in backend systems, APIs, frontend platforms, and automation. Civil Engineer from Pontificia Universidad Católica de Chile with a Major in Computer Science.
+Engineer who loves **building products and solving hard problems**. I thrive at the intersection of technical execution and product thinking — turning ambiguous challenges into working, production-ready solutions. From zero-to-one SaaS platforms to automation systems, I care about shipping things that actually work and make an impact.
 
 - 🔭 Currently working as **Founding Engineer at SignatureAPI**
-- 🚀 Built production platforms from zero — signing workflows, dashboards, APIs, and EdTech products
-- 🎓 Civil Engineering, Industrial Engineering + Major in Computer Science — UC Chile (GPA 5.7 · Rank 152/899)
+- 🧩 Good at breaking down complex problems and building clean, practical solutions
+- 🚀 Shipped full products end-to-end — signing workflows, dashboards, APIs, and EdTech tools
+- 🎓 Civil Engineering · Major in Computer Science — UC Chile (GPA 5.7 · Rank 152/899)
 - 🏆 National Top Score in Mathematics — PSU University Admission Exam, Chile (2017)
 - 🌍 Based in Santiago, Chile 🇨🇱
 - 📧 santiago.olivos@gmail.com
