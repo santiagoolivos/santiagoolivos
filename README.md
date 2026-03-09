@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Hi, I'm Santiago Olivos 👋
+  # Hi, I'm Santiago Olivos Poch 👋
   ### Founding Full Stack Engineer from Chile 🇨🇱
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-olivos-poch-0125b4237/)
